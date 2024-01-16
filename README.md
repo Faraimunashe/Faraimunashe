@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Faraimunashe Manjeese from Harare, Zimbabwe<br><br>- 🔭 I’m working as Software Developer.<br>- 📚 I'm currently learning React Native.<br>- ⚡ In my free time I pay soccer & farming.</p>
+<p align="left">I'm Faraimunashe Manjeese from Harare, Zimbabwe<br><br>- 🔭 I’m working as Software Developer.<br>- 📚 I'm currently learning React Native.<br>- ⚡ In my free time I do farming & play soccer.</p>
 
 ###
 
